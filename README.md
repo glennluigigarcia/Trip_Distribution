@@ -1,3 +1,13 @@
+<p style='text-align: center'>
+  <img src='https://ops.fhwa.dot.gov/publications/fhwahop18073/images/figure1.png' width='500' height=275/>
+</p>
+
+<div style='text-align:center'>
+    <p style='font-size: 25px; color: rgb(0,125,183);'><b>Convergence Analysis of Trip Distribution Methods</b></p>
+</div>
+
+---
+
 # <h1 style='background-color: rgb(0,125,183); padding: 21px; color: #FFFFFF; font-family: Helvetica; font-size: 25px'>**Introduction**</h1> 
 
 Trip distribution is a central stage of the traditional four-step model in transport planning. <b>It provides the connection between how many trips are produced in each zone and how they are attracted to other zones, ultimately producing the origin-destination (OD) matrix required for mode choice and assignment.</b> Without this stage, it would not be possible to understand how future travel demand will be distributed across a regional network. The method chosen for distribution is crucial, as it determines whether the resulting OD matrix reflects realistic behavioural patterns or imposes artificial assumptions on flows. Among the many techniques available, growth factor methods and synthetic methods have historically been the most widely implemented in both research and practice.  
