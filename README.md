@@ -2,10 +2,6 @@
   <img src='https://ops.fhwa.dot.gov/publications/fhwahop18073/images/figure1.png' width='500' height=275/>
 </p>
 
-<div style='text-align:center'>
-    <p style='font-size: 25px; color: rgb(0,125,183);'><b>Convergence Analysis of Trip Distribution Methods</b></p>
-</div>
-
 ---
 
 # <h1 style='background-color: rgb(0,125,183); padding: 21px; color: #FFFFFF; font-family: Helvetica; font-size: 25px'>**Introduction**</h1> 
