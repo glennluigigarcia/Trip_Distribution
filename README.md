@@ -1,5 +1,5 @@
 <p style='text-align: center'>
-  <img src='https://ops.fhwa.dot.gov/publications/fhwahop18073/images/figure1.png' width='500' height=275/>
+  <img src='images/figure1.png' width='500' height=275/>
 </p>
 
 ---
